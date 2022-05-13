@@ -1,0 +1,2 @@
+This is me testing a file in git
+This is my second line trying
