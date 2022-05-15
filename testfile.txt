@@ -1,5 +1,6 @@
 This is me testing a file in git
-This is my second line trying
+
 Zoom Apps make meetings more engaging, productive, and fun!
+
 Open textbooks are licensed by authors and publishers to be freely used and adapted.
- Download, edit and distribute them at no cost.
+Download, edit and distribute them at no cost.
