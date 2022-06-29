@@ -4,7 +4,6 @@ Zoom Apps make meetings more engaging, productive, and fun!
 
 Non-Open textbooks are licensed by authors and publishers to be freely used and adapted.
 Download, edit and distribute them at no cost.
-<<<<<<< HEAD
 I am adding a new line to the file
 Another new line added
 Classmates are
@@ -13,9 +12,9 @@ yvonne
 Paul
 Ighalo
 Ifeoma
-=======
 Now i am adding a new line while in the new branch
->>>>>>> new_feature
 Thank you Judith for making me a collaboator.
-I hope we all make it to the top and we will all be hired with MULTPLE JOBS!
+I hope we all make it to the top and we will all be hired with MULTPLE JOBS
+She said i should use another sentence
 Trying out pull requests
+
